@@ -1,4 +1,4 @@
-This customer_segmentation notebook performs customer segmentation for a beverage manufacturing company using RFM analysis and K-means clustering. The goal is to segment wholesale customers into distinct groups to create personalized customer experiences, targeted marketing campaigns, and optimized pricing strategies.
+The customer_segmentation notebook performs customer segmentation for a beverage manufacturing company using RFM analysis and K-means clustering. The goal is to segment wholesale customers into distinct groups to create personalized customer experiences, targeted marketing campaigns, and optimized pricing strategies.
 
 **1. Introduction**
 
